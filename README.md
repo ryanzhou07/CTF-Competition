@@ -3,8 +3,8 @@ Winning Code for Linear Regression Optimization Hackathon for Real Estate Prices
 
 Utilized randomizer algorithm to find the coefficient of each factor that produces the highest R-value correlating to model strength
 # How to Run
-Open Google Colab
+Open with Google Colab
 
-Import the files into a blank Juypter notebook
+Import files that are missing
 
-Run all of the files in order
+Run all of the cells in each file in order
